@@ -1,0 +1,60 @@
+.container{
+    border: 5px solid black;
+    margin: auto;
+    max-Width: 960px;
+    Padding: 20px;
+    Overflow: auto;
+margin-top: 20px;
+
+   
+}
+
+.icerik {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 20px 0;
+}
+
+.ust{
+    border: 5px solid black;
+    
+    height: 150px;
+  
+    background-color: rgb(16, 116, 197);
+}
+
+.sol-yazi{
+    border: 5px solid black;
+  padding: 15px ;
+    background-color: rgb(6, 187, 75);
+    
+}
+.solalt{
+    background-color: rgb(16, 116, 197);   
+    border: 5px solid black;
+    height: 500px;
+    margin-top: 20px;
+
+}
+
+
+.sagust{
+    border: 5px solid black;
+
+    height: 500px;
+margin-bottom: 20px;
+    background-color: rgb(16, 116, 197);   
+}
+
+.sag-yazi{
+    border: 5px solid black;
+    padding: 15px ;
+      background-color: rgb(6, 187, 75);
+      
+}
+.alt{
+    border: 5px solid black;
+    padding: 15px ;
+      background-color: rgb(6, 187, 75);
+}
